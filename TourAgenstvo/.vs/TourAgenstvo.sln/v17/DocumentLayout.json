@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lamuev\\Desktop\\TourAgenstvo\\TourAgenstvo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E57EDB30-67FD-47EC-9091-FE6F49DA59C0}|TourAgenstvo.sln.csproj|c:\\users\\lamuev\\desktop\\touragenstvo\\touragenstvo\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E57EDB30-67FD-47EC-9091-FE6F49DA59C0}|TourAgenstvo.sln.csproj|solutionrelative:packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E57EDB30-67FD-47EC-9091-FE6F49DA59C0}|TourAgenstvo.sln.csproj|c:\\users\\lamuev\\desktop\\touragenstvo\\touragenstvo\\hotelspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E57EDB30-67FD-47EC-9091-FE6F49DA59C0}|TourAgenstvo.sln.csproj|solutionrelative:hotelspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E57EDB30-67FD-47EC-9091-FE6F49DA59C0}|TourAgenstvo.sln.csproj|C:\\Users\\lamuev\\Desktop\\TourAgenstvo\\TourAgenstvo\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E57EDB30-67FD-47EC-9091-FE6F49DA59C0}|TourAgenstvo.sln.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E57EDB30-67FD-47EC-9091-FE6F49DA59C0}|TourAgenstvo.sln.csproj|c:\\users\\lamuev\\desktop\\touragenstvo\\touragenstvo\\tourspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E57EDB30-67FD-47EC-9091-FE6F49DA59C0}|TourAgenstvo.sln.csproj|solutionrelative:tourspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E57EDB30-67FD-47EC-9091-FE6F49DA59C0}|TourAgenstvo.sln.csproj|c:\\users\\lamuev\\desktop\\touragenstvo\\touragenstvo\\addeditpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E57EDB30-67FD-47EC-9091-FE6F49DA59C0}|TourAgenstvo.sln.csproj|solutionrelative:addeditpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E57EDB30-67FD-47EC-9091-FE6F49DA59C0}|TourAgenstvo.sln.csproj|C:\\Users\\lamuev\\Desktop\\TourAgenstvo\\TourAgenstvo\\basemodel.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E57EDB30-67FD-47EC-9091-FE6F49DA59C0}|TourAgenstvo.sln.csproj|solutionrelative:basemodel.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E57EDB30-67FD-47EC-9091-FE6F49DA59C0}|TourAgenstvo.sln.csproj|c:\\users\\lamuev\\desktop\\touragenstvo\\touragenstvo\\hotelspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E57EDB30-67FD-47EC-9091-FE6F49DA59C0}|TourAgenstvo.sln.csproj|solutionrelative:hotelspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E57EDB30-67FD-47EC-9091-FE6F49DA59C0}|TourAgenstvo.sln.csproj|c:\\users\\lamuev\\desktop\\touragenstvo\\touragenstvo\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E57EDB30-67FD-47EC-9091-FE6F49DA59C0}|TourAgenstvo.sln.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E57EDB30-67FD-47EC-9091-FE6F49DA59C0}|TourAgenstvo.sln.csproj|C:\\Users\\lamuev\\Desktop\\TourAgenstvo\\TourAgenstvo\\basemodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{E57EDB30-67FD-47EC-9091-FE6F49DA59C0}|TourAgenstvo.sln.csproj|solutionrelative:basemodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ToursPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\lamuev\\Desktop\\TourAgenstvo\\TourAgenstvo\\ToursPage.xaml.cs",
+              "RelativeDocumentMoniker": "ToursPage.xaml.cs",
+              "ToolTip": "C:\\Users\\lamuev\\Desktop\\TourAgenstvo\\TourAgenstvo\\ToursPage.xaml.cs",
+              "RelativeToolTip": "ToursPage.xaml.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAADgvxkAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T03:47:24.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddEditPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\lamuev\\Desktop\\TourAgenstvo\\TourAgenstvo\\AddEditPage.xaml.cs",
+              "RelativeDocumentMoniker": "AddEditPage.xaml.cs",
+              "ToolTip": "C:\\Users\\lamuev\\Desktop\\TourAgenstvo\\TourAgenstvo\\AddEditPage.xaml.cs",
+              "RelativeToolTip": "AddEditPage.xaml.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAArwC8AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T03:47:00.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HotelsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\lamuev\\Desktop\\TourAgenstvo\\TourAgenstvo\\HotelsPage.xaml",
+              "RelativeDocumentMoniker": "HotelsPage.xaml",
+              "ToolTip": "C:\\Users\\lamuev\\Desktop\\TourAgenstvo\\TourAgenstvo\\HotelsPage.xaml",
+              "RelativeToolTip": "HotelsPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-19T03:45:50.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\lamuev\\Desktop\\TourAgenstvo\\TourAgenstvo\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\lamuev\\Desktop\\TourAgenstvo\\TourAgenstvo\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-19T03:45:47.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\lamuev\\Desktop\\TourAgenstvo\\TourAgenstvo\\packages.config",
+              "RelativeDocumentMoniker": "packages.config",
+              "ToolTip": "C:\\Users\\lamuev\\Desktop\\TourAgenstvo\\TourAgenstvo\\packages.config*",
+              "RelativeToolTip": "packages.config*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-19T03:45:24.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BaseModel.Context.cs",
+              "DocumentMoniker": "C:\\Users\\lamuev\\Desktop\\TourAgenstvo\\TourAgenstvo\\BaseModel.Context.cs",
+              "RelativeDocumentMoniker": "BaseModel.Context.cs",
+              "ToolTip": "C:\\Users\\lamuev\\Desktop\\TourAgenstvo\\TourAgenstvo\\BaseModel.Context.cs",
+              "RelativeToolTip": "BaseModel.Context.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T03:37:44.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BaseModel.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\lamuev\\Desktop\\TourAgenstvo\\TourAgenstvo\\BaseModel.edmx",
+              "RelativeDocumentMoniker": "BaseModel.edmx",
+              "ToolTip": "C:\\Users\\lamuev\\Desktop\\TourAgenstvo\\TourAgenstvo\\BaseModel.edmx [Diagram1]",
+              "RelativeToolTip": "BaseModel.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-12-19T03:37:19.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HotelsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\lamuev\\Desktop\\TourAgenstvo\\TourAgenstvo\\HotelsPage.xaml.cs",
+              "RelativeDocumentMoniker": "HotelsPage.xaml.cs",
+              "ToolTip": "C:\\Users\\lamuev\\Desktop\\TourAgenstvo\\TourAgenstvo\\HotelsPage.xaml.cs",
+              "RelativeToolTip": "HotelsPage.xaml.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAArwEQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T03:10:08.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\lamuev\\Desktop\\TourAgenstvo\\TourAgenstvo\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\lamuev\\Desktop\\TourAgenstvo\\TourAgenstvo\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAADgvzoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T03:04:13.638Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
